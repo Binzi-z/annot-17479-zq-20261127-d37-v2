@@ -1,0 +1,20 @@
+{
+  "synthetic": true,
+  "events": [
+    {
+      "id": "S01",
+      "organization": "training",
+      "kind": "relational_provenance"
+    },
+    {
+      "id": "S02",
+      "organization": "training",
+      "kind": "bag_multiplicity"
+    },
+    {
+      "id": "S03",
+      "organization": "training",
+      "kind": "field_release"
+    }
+  ]
+}

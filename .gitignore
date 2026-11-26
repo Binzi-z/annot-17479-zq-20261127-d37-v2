@@ -1,0 +1,13 @@
+.env
+.env.*
+*.key
+*.token
+*.pem
+*.dpapi
+.claude/
+__pycache__/
+.venv/
+.pytest_cache/
+artifacts/
+recordings/
+*.mp4
